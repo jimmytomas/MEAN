@@ -1,0 +1,480 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="none" generator-info-url="none">
+<channel id="Canal.Golden.Premier.2">
+	<display-name lang="es">Canal Golden Premier 2</display-name>
+</channel>
+<channel id="Canal.HBO.(Latinoamerica)">
+	<display-name lang="es">Canal HBO (Latinoamerica)</display-name>
+</channel>
+<channel id="Canal.HBO.2.Latinoamerica">
+	<display-name lang="es">Canal HBO 2 Latinoamerica</display-name>
+</channel>
+<channel id="Canal.Star.Channel.(Mexico)">
+	<display-name lang="es">Canal Star Channel (Mexico)</display-name>
+</channel>
+<channel id="Canal.Universal.Comedy">
+	<display-name lang="es">Canal Universal Comedy</display-name>
+</channel>
+<channel id="Canal.Universal.Premiere">
+	<display-name lang="es">Canal Universal Premiere</display-name>
+</channel>
+<channel id="Canal.Warner.TV.(Mexico)">
+	<display-name lang="es">Canal Warner TV (Mexico)</display-name>
+</channel>
+<programme start="20230224233000 +0000" stop="20230225010000 +0000" channel="Canal.Golden.Premier.2">
+	<title lang="en">Jugada cruzada</title>
+</programme>
+<programme start="20230225010000 +0000" stop="20230225024500 +0000" channel="Canal.Golden.Premier.2">
+	<title lang="en">Placa de Acero</title>
+</programme>
+<programme start="20230225024500 +0000" stop="20230225041600 +0000" channel="Canal.Golden.Premier.2">
+	<title lang="en">My sinful Valentine</title>
+</programme>
+<programme start="20230225041600 +0000" stop="20230225061500 +0000" channel="Canal.Golden.Premier.2">
+	<title lang="en">How to Be a Latin Lover</title>
+</programme>
+<programme start="20230225061500 +0000" stop="20230225080300 +0000" channel="Canal.Golden.Premier.2">
+	<title lang="en">El Principito</title>
+</programme>
+<programme start="20230225080300 +0000" stop="20230225092500 +0000" channel="Canal.Golden.Premier.2">
+	<title lang="en">Un Caballo Llamado Elefante</title>
+</programme>
+<programme start="20230225092500 +0000" stop="20230225111000 +0000" channel="Canal.Golden.Premier.2">
+	<title lang="en">El legado</title>
+</programme>
+<programme start="20230225111000 +0000" stop="20230225130800 +0000" channel="Canal.Golden.Premier.2">
+	<title lang="en">Robin Hood Origenes</title>
+</programme>
+<programme start="20230225130800 +0000" stop="20230225144900 +0000" channel="Canal.Golden.Premier.2">
+	<title lang="en">Londres Bajo Fuego</title>
+</programme>
+<programme start="20230225144900 +0000" stop="20230225164000 +0000" channel="Canal.Golden.Premier.2">
+	<title lang="en">Reyes de la calle</title>
+</programme>
+<programme start="20230225164000 +0000" stop="20230225181200 +0000" channel="Canal.Golden.Premier.2">
+	<title lang="en">La ultima noche de la humanidad</title>
+</programme>
+<programme start="20230225181200 +0000" stop="20230225203400 +0000" channel="Canal.Golden.Premier.2">
+	<title lang="en">El Mediador</title>
+</programme>
+<programme start="20230225203400 +0000" stop="20230225221900 +0000" channel="Canal.Golden.Premier.2">
+	<title lang="en">Alerta Maxima</title>
+</programme>
+<programme start="20230225221900 +0000" stop="20230226000000 +0000" channel="Canal.Golden.Premier.2">
+	<title lang="en">Londres Bajo Fuego</title>
+</programme>
+<programme start="20230224225500 +0000" stop="20230225012500 +0000" channel="Canal.HBO.(Latinoamerica)">
+	<title lang="en">Rapidos y Furiosos 9</title>
+</programme>
+<programme start="20230225012500 +0000" stop="20230225031500 +0000" channel="Canal.HBO.(Latinoamerica)">
+	<title lang="en">Terror en el estudio 666</title>
+</programme>
+<programme start="20230225031500 +0000" stop="20230225041500 +0000" channel="Canal.HBO.(Latinoamerica)">
+	<title lang="en">Atsuko Okatsuka: The Intruder</title>
+</programme>
+<programme start="20230225041500 +0000" stop="20230225060000 +0000" channel="Canal.HBO.(Latinoamerica)">
+	<title lang="en">Los Senores de Salem</title>
+</programme>
+<programme start="20230225060000 +0000" stop="20230225075500 +0000" channel="Canal.HBO.(Latinoamerica)">
+	<title lang="en">Quiero matar a mi jefe 2</title>
+</programme>
+<programme start="20230225075500 +0000" stop="20230225100000 +0000" channel="Canal.HBO.(Latinoamerica)">
+	<title lang="en">La Estafa de los Logan</title>
+</programme>
+<programme start="20230225100000 +0000" stop="20230225122000 +0000" channel="Canal.HBO.(Latinoamerica)">
+	<title lang="en">Aquaman</title>
+</programme>
+<programme start="20230225122000 +0000" stop="20230225132000 +0000" channel="Canal.HBO.(Latinoamerica)">
+	<title lang="en">The Last of Us</title>
+</programme>
+<programme start="20230225132000 +0000" stop="20230225155000 +0000" channel="Canal.HBO.(Latinoamerica)">
+	<title lang="en">Jurassic World Dominion</title>
+</programme>
+<programme start="20230225155000 +0000" stop="20230225182000 +0000" channel="Canal.HBO.(Latinoamerica)">
+	<title lang="en">Animales Fantasticos: Los Secretos de Dumbledore</title>
+</programme>
+<programme start="20230225182000 +0000" stop="20230225201000 +0000" channel="Canal.HBO.(Latinoamerica)">
+	<title lang="en">After: Aqui Empieza Todo</title>
+</programme>
+<programme start="20230225201000 +0000" stop="20230225220000 +0000" channel="Canal.HBO.(Latinoamerica)">
+	<title lang="en">After: En Mil Pedazos</title>
+</programme>
+<programme start="20230225220000 +0000" stop="20230225234500 +0000" channel="Canal.HBO.(Latinoamerica)">
+	<title lang="en">After: Almas Perdidas</title>
+</programme>
+<programme start="20230225234500 +0000" stop="20230226021500 +0000" channel="Canal.HBO.(Latinoamerica)">
+	<title lang="en">Jurassic World Dominion</title>
+</programme>
+<programme start="20230224220000 +0000" stop="20230225001000 +0000" channel="Canal.HBO.2.Latinoamerica">
+	<title lang="en">Black Adam</title>
+</programme>
+<programme start="20230225001000 +0000" stop="20230225011000 +0000" channel="Canal.HBO.2.Latinoamerica">
+	<title lang="en">The Last of Us</title>
+</programme>
+<programme start="20230225011000 +0000" stop="20230225025000 +0000" channel="Canal.HBO.2.Latinoamerica">
+	<title lang="en">La masacre de Texas El inicio</title>
+</programme>
+<programme start="20230225025000 +0000" stop="20230225042500 +0000" channel="Canal.HBO.2.Latinoamerica">
+	<title lang="en">(In)seguridad</title>
+</programme>
+<programme start="20230225042500 +0000" stop="20230225060000 +0000" channel="Canal.HBO.2.Latinoamerica">
+	<title lang="en">Green Lantern Beware My Power</title>
+</programme>
+<programme start="20230225060000 +0000" stop="20230225072500 +0000" channel="Canal.HBO.2.Latinoamerica">
+	<title lang="en">Gatubela acechada</title>
+</programme>
+<programme start="20230225072500 +0000" stop="20230225090000 +0000" channel="Canal.HBO.2.Latinoamerica">
+	<title lang="en">Shrek 2</title>
+</programme>
+<programme start="20230225090000 +0000" stop="20230225104500 +0000" channel="Canal.HBO.2.Latinoamerica">
+	<title lang="en">Chips patrulla motorizada</title>
+</programme>
+<programme start="20230225104500 +0000" stop="20230225125500 +0000" channel="Canal.HBO.2.Latinoamerica">
+	<title lang="en">No te Preocupes Carino</title>
+</programme>
+<programme start="20230225125500 +0000" stop="20230225135500 +0000" channel="Canal.HBO.2.Latinoamerica">
+	<title lang="en">La materia oscura</title>
+</programme>
+<programme start="20230225135500 +0000" stop="20230225145000 +0000" channel="Canal.HBO.2.Latinoamerica">
+	<title lang="en">El inmortal</title>
+</programme>
+<programme start="20230225145000 +0000" stop="20230225163500 +0000" channel="Canal.HBO.2.Latinoamerica">
+	<title lang="en">Come Play</title>
+</programme>
+<programme start="20230225163500 +0000" stop="20230225182500 +0000" channel="Canal.HBO.2.Latinoamerica">
+	<title lang="en">Morbius</title>
+</programme>
+<programme start="20230225182500 +0000" stop="20230225201000 +0000" channel="Canal.HBO.2.Latinoamerica">
+	<title lang="en">No Respires 2</title>
+</programme>
+<programme start="20230225201000 +0000" stop="20230225220000 +0000" channel="Canal.HBO.2.Latinoamerica">
+	<title lang="en">El Telefono Negro</title>
+</programme>
+<programme start="20230225220000 +0000" stop="20230226001000 +0000" channel="Canal.HBO.2.Latinoamerica">
+	<title lang="en">No te Preocupes Carino</title>
+</programme>
+<programme start="20230224215500 +0000" stop="20230225002000 +0000" channel="Canal.Star.Channel.(Mexico)">
+	<title lang="en">Jumanji: En la Selva</title>
+</programme>
+<programme start="20230225002000 +0000" stop="20230225020000 +0000" channel="Canal.Star.Channel.(Mexico)">
+	<title lang="en">Guerra de Papas 2</title>
+</programme>
+<programme start="20230225020000 +0000" stop="20230225040000 +0000" channel="Canal.Star.Channel.(Mexico)">
+	<title lang="en">Mi super ex-novia</title>
+</programme>
+<programme start="20230225040000 +0000" stop="20230225060000 +0000" channel="Canal.Star.Channel.(Mexico)">
+	<title lang="en">Una melodia navidena</title>
+</programme>
+<programme start="20230225060000 +0000" stop="20230225070000 +0000" channel="Canal.Star.Channel.(Mexico)">
+	<title lang="en">Bones</title>
+</programme>
+<programme start="20230225070000 +0000" stop="20230225073000 +0000" channel="Canal.Star.Channel.(Mexico)">
+	<title lang="en">Programacion Especial</title>
+</programme>
+<programme start="20230225073000 +0000" stop="20230225080000 +0000" channel="Canal.Star.Channel.(Mexico)">
+	<title lang="en">Programacion Especial</title>
+</programme>
+<programme start="20230225080000 +0000" stop="20230225100000 +0000" channel="Canal.Star.Channel.(Mexico)">
+	<title lang="en">Los expedientes X</title>
+</programme>
+<programme start="20230225100000 +0000" stop="20230225123000 +0000" channel="Canal.Star.Channel.(Mexico)">
+	<title lang="en">Jack Reacher</title>
+</programme>
+<programme start="20230225123000 +0000" stop="20230225133000 +0000" channel="Canal.Star.Channel.(Mexico)">
+	<title lang="en">Criminal Minds</title>
+</programme>
+<programme start="20230225133000 +0000" stop="20230225141000 +0000" channel="Canal.Star.Channel.(Mexico)">
+	<title lang="en">Criminal Minds</title>
+</programme>
+<programme start="20230225141000 +0000" stop="20230225150000 +0000" channel="Canal.Star.Channel.(Mexico)">
+	<title lang="en">Criminal Minds</title>
+</programme>
+<programme start="20230225150000 +0000" stop="20230225173000 +0000" channel="Canal.Star.Channel.(Mexico)">
+	<title lang="en">Hulk</title>
+</programme>
+<programme start="20230225173000 +0000" stop="20230225200000 +0000" channel="Canal.Star.Channel.(Mexico)">
+	<title lang="en">Jumanji: En la Selva</title>
+</programme>
+<programme start="20230225200000 +0000" stop="20230225215500 +0000" channel="Canal.Star.Channel.(Mexico)">
+	<title lang="en">Infierno en la Tormenta</title>
+</programme>
+<programme start="20230225215500 +0000" stop="20230226001000 +0000" channel="Canal.Star.Channel.(Mexico)">
+	<title lang="en">Otra oportunidad para amar</title>
+</programme>
+<programme start="20230224234000 +0000" stop="20230225000500 +0000" channel="Canal.Universal.Comedy">
+	<title lang="en">The office</title>
+</programme>
+<programme start="20230225000500 +0000" stop="20230225003000 +0000" channel="Canal.Universal.Comedy">
+	<title lang="en">Younger</title>
+</programme>
+<programme start="20230225003000 +0000" stop="20230225005500 +0000" channel="Canal.Universal.Comedy">
+	<title lang="en">Younger</title>
+</programme>
+<programme start="20230225005500 +0000" stop="20230225012000 +0000" channel="Canal.Universal.Comedy">
+	<title lang="en">Younger</title>
+</programme>
+<programme start="20230225012000 +0000" stop="20230225014500 +0000" channel="Canal.Universal.Comedy">
+	<title lang="en">Younger</title>
+</programme>
+<programme start="20230225014500 +0000" stop="20230225021000 +0000" channel="Canal.Universal.Comedy">
+	<title lang="en">Younger</title>
+</programme>
+<programme start="20230225021000 +0000" stop="20230225024000 +0000" channel="Canal.Universal.Comedy">
+	<title lang="en">Younger</title>
+</programme>
+<programme start="20230225024000 +0000" stop="20230225030500 +0000" channel="Canal.Universal.Comedy">
+	<title lang="en">Younger</title>
+</programme>
+<programme start="20230225030500 +0000" stop="20230225033000 +0000" channel="Canal.Universal.Comedy">
+	<title lang="en">Younger</title>
+</programme>
+<programme start="20230225033000 +0000" stop="20230225035500 +0000" channel="Canal.Universal.Comedy">
+	<title lang="en">Younger</title>
+</programme>
+<programme start="20230225035500 +0000" stop="20230225042000 +0000" channel="Canal.Universal.Comedy">
+	<title lang="en">Younger</title>
+</programme>
+<programme start="20230225042000 +0000" stop="20230225044500 +0000" channel="Canal.Universal.Comedy">
+	<title lang="en">Younger</title>
+</programme>
+<programme start="20230225044500 +0000" stop="20230225051000 +0000" channel="Canal.Universal.Comedy">
+	<title lang="en">Younger</title>
+</programme>
+<programme start="20230225051000 +0000" stop="20230225053500 +0000" channel="Canal.Universal.Comedy">
+	<title lang="en">Younger</title>
+</programme>
+<programme start="20230225053500 +0000" stop="20230225060000 +0000" channel="Canal.Universal.Comedy">
+	<title lang="en">Younger</title>
+</programme>
+<programme start="20230225060000 +0000" stop="20230225063000 +0000" channel="Canal.Universal.Comedy">
+	<title lang="en">Younger</title>
+</programme>
+<programme start="20230225063000 +0000" stop="20230225065500 +0000" channel="Canal.Universal.Comedy">
+	<title lang="en">Younger</title>
+</programme>
+<programme start="20230225065500 +0000" stop="20230225071500 +0000" channel="Canal.Universal.Comedy">
+	<title lang="en">Younger</title>
+</programme>
+<programme start="20230225071500 +0000" stop="20230225074000 +0000" channel="Canal.Universal.Comedy">
+	<title lang="en">Younger</title>
+</programme>
+<programme start="20230225074000 +0000" stop="20230225080000 +0000" channel="Canal.Universal.Comedy">
+	<title lang="en">Younger</title>
+</programme>
+<programme start="20230225080000 +0000" stop="20230225082500 +0000" channel="Canal.Universal.Comedy">
+	<title lang="en">Younger</title>
+</programme>
+<programme start="20230225082500 +0000" stop="20230225085000 +0000" channel="Canal.Universal.Comedy">
+	<title lang="en">Younger</title>
+</programme>
+<programme start="20230225085000 +0000" stop="20230225091500 +0000" channel="Canal.Universal.Comedy">
+	<title lang="en">Younger</title>
+</programme>
+<programme start="20230225091500 +0000" stop="20230225094000 +0000" channel="Canal.Universal.Comedy">
+	<title lang="en">Younger</title>
+</programme>
+<programme start="20230225094000 +0000" stop="20230225100500 +0000" channel="Canal.Universal.Comedy">
+	<title lang="en">Younger</title>
+</programme>
+<programme start="20230225100500 +0000" stop="20230225103000 +0000" channel="Canal.Universal.Comedy">
+	<title lang="en">Younger</title>
+</programme>
+<programme start="20230225103000 +0000" stop="20230225105500 +0000" channel="Canal.Universal.Comedy">
+	<title lang="en">Younger</title>
+</programme>
+<programme start="20230225105500 +0000" stop="20230225112000 +0000" channel="Canal.Universal.Comedy">
+	<title lang="en">Younger</title>
+</programme>
+<programme start="20230225112000 +0000" stop="20230225114500 +0000" channel="Canal.Universal.Comedy">
+	<title lang="en">Younger</title>
+</programme>
+<programme start="20230225114500 +0000" stop="20230225121000 +0000" channel="Canal.Universal.Comedy">
+	<title lang="en">Younger</title>
+</programme>
+<programme start="20230225121000 +0000" stop="20230225123500 +0000" channel="Canal.Universal.Comedy">
+	<title lang="en">Kevin Puede Esperar</title>
+</programme>
+<programme start="20230225123500 +0000" stop="20230225130000 +0000" channel="Canal.Universal.Comedy">
+	<title lang="en">Kevin Puede Esperar</title>
+</programme>
+<programme start="20230225130000 +0000" stop="20230225132500 +0000" channel="Canal.Universal.Comedy">
+	<title lang="en">Kevin Puede Esperar</title>
+</programme>
+<programme start="20230225132500 +0000" stop="20230225135000 +0000" channel="Canal.Universal.Comedy">
+	<title lang="en">Kevin Puede Esperar</title>
+</programme>
+<programme start="20230225135000 +0000" stop="20230225141500 +0000" channel="Canal.Universal.Comedy">
+	<title lang="en">Kevin Puede Esperar</title>
+</programme>
+<programme start="20230225141500 +0000" stop="20230225144000 +0000" channel="Canal.Universal.Comedy">
+	<title lang="en">30 Rock</title>
+</programme>
+<programme start="20230225144000 +0000" stop="20230225150500 +0000" channel="Canal.Universal.Comedy">
+	<title lang="en">30 Rock</title>
+</programme>
+<programme start="20230225150500 +0000" stop="20230225153000 +0000" channel="Canal.Universal.Comedy">
+	<title lang="en">30 Rock</title>
+</programme>
+<programme start="20230225153000 +0000" stop="20230225155500 +0000" channel="Canal.Universal.Comedy">
+	<title lang="en">30 Rock</title>
+</programme>
+<programme start="20230225155500 +0000" stop="20230225162500 +0000" channel="Canal.Universal.Comedy">
+	<title lang="en">Rutherford Falls</title>
+</programme>
+<programme start="20230225162500 +0000" stop="20230225165000 +0000" channel="Canal.Universal.Comedy">
+	<title lang="en">Rutherford Falls Un Pueblo Si</title>
+</programme>
+<programme start="20230225165000 +0000" stop="20230225171500 +0000" channel="Canal.Universal.Comedy">
+	<title lang="en">Rutherford Falls</title>
+</programme>
+<programme start="20230225171500 +0000" stop="20230225174000 +0000" channel="Canal.Universal.Comedy">
+	<title lang="en">Rutherford Falls Un Pueblo Si</title>
+</programme>
+<programme start="20230225174000 +0000" stop="20230225180500 +0000" channel="Canal.Universal.Comedy">
+	<title lang="en">Rutherford Falls Un Pueblo Si</title>
+</programme>
+<programme start="20230225180500 +0000" stop="20230225183000 +0000" channel="Canal.Universal.Comedy">
+	<title lang="en">The office</title>
+</programme>
+<programme start="20230225183000 +0000" stop="20230225185500 +0000" channel="Canal.Universal.Comedy">
+	<title lang="en">The office</title>
+</programme>
+<programme start="20230225185500 +0000" stop="20230225192000 +0000" channel="Canal.Universal.Comedy">
+	<title lang="en">The office</title>
+</programme>
+<programme start="20230225192000 +0000" stop="20230225210000 +0000" channel="Canal.Universal.Comedy">
+	<title lang="en">Un novato en apuros 2</title>
+</programme>
+<programme start="20230225210000 +0000" stop="20230225225500 +0000" channel="Canal.Universal.Comedy">
+	<title lang="en">Una pareja mas tonta</title>
+</programme>
+<programme start="20230225225500 +0000" stop="20230226010500 +0000" channel="Canal.Universal.Comedy">
+	<title lang="en">Hot Fuzz Super policias</title>
+</programme>
+<programme start="20230224231500 +0000" stop="20230225001500 +0000" channel="Canal.Universal.Premiere">
+	<title lang="en">Billions</title>
+</programme>
+<programme start="20230225001500 +0000" stop="20230225011500 +0000" channel="Canal.Universal.Premiere">
+	<title lang="en">Billions</title>
+</programme>
+<programme start="20230225011500 +0000" stop="20230225020000 +0000" channel="Canal.Universal.Premiere">
+	<title lang="en">Fbi</title>
+</programme>
+<programme start="20230225020000 +0000" stop="20230225024500 +0000" channel="Canal.Universal.Premiere">
+	<title lang="en">Fbi</title>
+</programme>
+<programme start="20230225024500 +0000" stop="20230225033000 +0000" channel="Canal.Universal.Premiere">
+	<title lang="en">Ransom</title>
+</programme>
+<programme start="20230225033000 +0000" stop="20230225042000 +0000" channel="Canal.Universal.Premiere">
+	<title lang="en">Suits</title>
+</programme>
+<programme start="20230225042000 +0000" stop="20230225051000 +0000" channel="Canal.Universal.Premiere">
+	<title lang="en">Suits</title>
+</programme>
+<programme start="20230225051000 +0000" stop="20230225060000 +0000" channel="Canal.Universal.Premiere">
+	<title lang="en">Blue Bloods</title>
+</programme>
+<programme start="20230225060000 +0000" stop="20230225064500 +0000" channel="Canal.Universal.Premiere">
+	<title lang="en">La Brea</title>
+</programme>
+<programme start="20230225064500 +0000" stop="20230225073000 +0000" channel="Canal.Universal.Premiere">
+	<title lang="en">Ransom</title>
+</programme>
+<programme start="20230225073000 +0000" stop="20230225081500 +0000" channel="Canal.Universal.Premiere">
+	<title lang="en">Blue Bloods</title>
+</programme>
+<programme start="20230225081500 +0000" stop="20230225090000 +0000" channel="Canal.Universal.Premiere">
+	<title lang="en">Blue Bloods</title>
+</programme>
+<programme start="20230225090000 +0000" stop="20230225095500 +0000" channel="Canal.Universal.Premiere">
+	<title lang="en">Billions</title>
+</programme>
+<programme start="20230225095500 +0000" stop="20230225105500 +0000" channel="Canal.Universal.Premiere">
+	<title lang="en">Billions</title>
+</programme>
+<programme start="20230225105500 +0000" stop="20230225115500 +0000" channel="Canal.Universal.Premiere">
+	<title lang="en">Billions</title>
+</programme>
+<programme start="20230225115500 +0000" stop="20230225125000 +0000" channel="Canal.Universal.Premiere">
+	<title lang="en">Billions</title>
+</programme>
+<programme start="20230225125000 +0000" stop="20230225135000 +0000" channel="Canal.Universal.Premiere">
+	<title lang="en">Billions</title>
+</programme>
+<programme start="20230225135000 +0000" stop="20230225144500 +0000" channel="Canal.Universal.Premiere">
+	<title lang="en">Billions</title>
+</programme>
+<programme start="20230225144500 +0000" stop="20230225154500 +0000" channel="Canal.Universal.Premiere">
+	<title lang="en">Billions</title>
+</programme>
+<programme start="20230225154500 +0000" stop="20230225164500 +0000" channel="Canal.Universal.Premiere">
+	<title lang="en">Billions</title>
+</programme>
+<programme start="20230225164500 +0000" stop="20230225174500 +0000" channel="Canal.Universal.Premiere">
+	<title lang="en">Billions</title>
+</programme>
+<programme start="20230225174500 +0000" stop="20230225184500 +0000" channel="Canal.Universal.Premiere">
+	<title lang="en">Billions</title>
+</programme>
+<programme start="20230225184500 +0000" stop="20230225193000 +0000" channel="Canal.Universal.Premiere">
+	<title lang="en">La Brea</title>
+</programme>
+<programme start="20230225193000 +0000" stop="20230225201500 +0000" channel="Canal.Universal.Premiere">
+	<title lang="en">Quantum leap</title>
+</programme>
+<programme start="20230225201500 +0000" stop="20230225210000 +0000" channel="Canal.Universal.Premiere">
+	<title lang="en">Fbi</title>
+</programme>
+<programme start="20230225210000 +0000" stop="20230225214500 +0000" channel="Canal.Universal.Premiere">
+	<title lang="en">FBI: International</title>
+</programme>
+<programme start="20230225214500 +0000" stop="20230225223000 +0000" channel="Canal.Universal.Premiere">
+	<title lang="en">FBI Most Wanted</title>
+</programme>
+<programme start="20230225223000 +0000" stop="20230225231500 +0000" channel="Canal.Universal.Premiere">
+	<title lang="en">Fbi</title>
+</programme>
+<programme start="20230225231500 +0000" stop="20230226000000 +0000" channel="Canal.Universal.Premiere">
+	<title lang="en">Fbi</title>
+</programme>
+<programme start="20230224220000 +0000" stop="20230225000600 +0000" channel="Canal.Warner.TV.(Mexico)">
+	<title lang="en">Blended</title>
+</programme>
+<programme start="20230225000600 +0000" stop="20230225020100 +0000" channel="Canal.Warner.TV.(Mexico)">
+	<title lang="en">?Quien *&$%! son los Miller?</title>
+</programme>
+<programme start="20230225020100 +0000" stop="20230225033700 +0000" channel="Canal.Warner.TV.(Mexico)">
+	<title lang="en">The bling ring</title>
+</programme>
+<programme start="20230225033700 +0000" stop="20230225060000 +0000" channel="Canal.Warner.TV.(Mexico)">
+	<title lang="en">The Big Bang Theory</title>
+</programme>
+<programme start="20230225060000 +0000" stop="20230225092000 +0000" channel="Canal.Warner.TV.(Mexico)">
+	<title lang="en">The Big Bang Theory</title>
+</programme>
+<programme start="20230225092000 +0000" stop="20230225110100 +0000" channel="Canal.Warner.TV.(Mexico)">
+	<title lang="en">Dragon Ball Super</title>
+</programme>
+<programme start="20230225110100 +0000" stop="20230225123900 +0000" channel="Canal.Warner.TV.(Mexico)">
+	<title lang="en">Medianoche En Paris</title>
+</programme>
+<programme start="20230225123900 +0000" stop="20230225142400 +0000" channel="Canal.Warner.TV.(Mexico)">
+	<title lang="en">50 First Dates</title>
+</programme>
+<programme start="20230225142400 +0000" stop="20230225160400 +0000" channel="Canal.Warner.TV.(Mexico)">
+	<title lang="en">Escalofrios 2</title>
+</programme>
+<programme start="20230225160400 +0000" stop="20230225175300 +0000" channel="Canal.Warner.TV.(Mexico)">
+	<title lang="en">Grown ups</title>
+</programme>
+<programme start="20230225175300 +0000" stop="20230225195300 +0000" channel="Canal.Warner.TV.(Mexico)">
+	<title lang="en">The Longest Yard</title>
+</programme>
+<programme start="20230225195300 +0000" stop="20230225220000 +0000" channel="Canal.Warner.TV.(Mexico)">
+	<title lang="en">Blended</title>
+</programme>
+<programme start="20230225220000 +0000" stop="20230226000000 +0000" channel="Canal.Warner.TV.(Mexico)">
+	<title lang="en">?Quien *&$%! son los Miller?</title>
+</programme>
+</tv>
