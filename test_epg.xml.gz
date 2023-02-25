@@ -36,16 +36,16 @@
 <programme start="20230225142000 +0000" stop="20230225165000 +0000" channel="Canal.HBO.(Latinoamerica)">
 	<title lang="en">Jurassic World Dominion</title>
 </programme>
-<programme start="20230225165000 +0000" stop="20230225192000 +0000" channel="Canal.HBO.(Latinoamerica)">
+<programme start="20230225165000 +0100" stop="20230225192000 +0100" channel="Canal.HBO.(Latinoamerica)">
 	<title lang="en">Animales Fantasticos: Los Secretos de Dumbledore</title>
 </programme>
-<programme start="20230225192000 +0000" stop="20230225211000 +0000" channel="Canal.HBO.(Latinoamerica)">
+<programme start="20230225192000 +0100" stop="20230225211000 +0100" channel="Canal.HBO.(Latinoamerica)">
 	<title lang="en">After: Aqui Empieza Todo</title>
 </programme>
-<programme start="20230225211000 +0000" stop="20230225230000 +0000" channel="Canal.HBO.(Latinoamerica)">
+<programme start="20230225211000 +0100" stop="20230225230000 +0100" channel="Canal.HBO.(Latinoamerica)">
 	<title lang="en">After: En Mil Pedazos</title>
 </programme>
-<programme start="20230225230000 +0000" stop="20230226004500 +0000" channel="Canal.HBO.(Latinoamerica)">
+<programme start="20230225230000 +0100" stop="20230226004500 +0100" channel="Canal.HBO.(Latinoamerica)">
 	<title lang="en">After: Almas Perdidas</title>
 </programme>
 <programme start="20230224225500 +0000" stop="20230225012000 +0000" channel="Canal.Star.Channel.(Mexico)">
